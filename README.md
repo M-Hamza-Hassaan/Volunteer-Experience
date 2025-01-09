@@ -17,7 +17,7 @@ Access your course plan here:
    Regular attendance and being on time will ensure you make the most out of these sessions.
 
 5. **Star This Repository**  
-   Please make sure to ⭐️ this repository to receive notifications about new module additions. This will motivate me and help me determine how many of you have benefitted.
+   Make sure to ⭐️ this repository to show your support and keep it in your starred list for easy access. To get notifications about new module additions, click the Watch button at the top of the repository.
 
 ---
 ## Best of Luck 
