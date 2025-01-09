@@ -10,17 +10,14 @@ Access your course plan here:
 2. **Create a Microsoft Account**  
    A Microsoft account is needed for accessing resources and tools for this course.
 
-3. **Join the community to get the link to daily sessions**  
-   Join the classes using this [Google Meet link](#).
-
-4. **G-drive to access previous sessions**  
+3. **G-drive to access previous sessions**  
    Join the classes using this [G-Dirve link](#).
 
 4. **Punctuality is the Key to Success**  
    Regular attendance and being on time will ensure you make the most out of these sessions.
 
 5. **Star This Repository**  
-   Make sure to ⭐️ this repository to receive notifications about new module additions.
+   Please make sure to ⭐️ this repository to receive notifications about new module additions. This will motivate me and help me determine how many of you have benefitted.
 
 ---
 ## Best of Luck 
