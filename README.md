@@ -1,5 +1,9 @@
 ## Get Started with Python
 
+Access your course plan here:  
+[This Link will lead you to Python Course.](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=c5b208d7-8519-418b-9fdb-49752f5e4503&wt.mc_id=studentamb_391519)
+
+
 1. **Create Your LinkedIn Account**
    Before anything, making a social presence and connection are your basic needs to survive and thrive in the field.
    
@@ -19,14 +23,4 @@
    Make sure to ⭐️ this repository to receive notifications about new module additions.
 
 ---
-
-
-
-### **Student Learn Plan Invite Link**
-Access your learning plan here:  
-[This Link will lead you to Python Course.](https://learn.microsoft.com/en-us/plans/kk44h5r34wgk33?tab=tab-created&learnerGroupId=c5b208d7-8519-418b-9fdb-49752f5e4503&wt.mc_id=studentamb_391519)
-
-
-
-
 ## Best of Luck 
