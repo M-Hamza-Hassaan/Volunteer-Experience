@@ -1,4 +1,4 @@
-## Get Started with C-Sharp
+## Get Started with AI
 
 Access your course plan here:  
 [This Link will lead you to C# Course.](https://learn.microsoft.com/en-us/plans/31zzc4mw2wk5re?tab=tab-created&learnerGroupId=e22fafaf-5743-4166-ac8d-d8c8c427d06d&wt.mc_id=studentamb_391519)
