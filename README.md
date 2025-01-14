@@ -4,6 +4,7 @@ Access your course plan here:
 [This Link will lead you to AI Course.](https://learn.microsoft.com/en-us/plans/8pkkiy5x76oy7y?tab=tab-created&learnerGroupId=7c5b8ec9-8ada-4bab-aca4-cc9d556d1b47&wt.mc_id=studentamb_391519)
 
 
+
 1. **Create Your LinkedIn Account**
    Before anything, making a social presence and connection are your basic needs to survive and thrive in the field.
    
