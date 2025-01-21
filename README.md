@@ -15,7 +15,5 @@ Access your course plan here:
 4. **Star This Repository**  
    Make sure to ⭐️ this repository to show your support and keep it in your starred list for easy access. To get notifications about new module additions, click the Watch button at the top of the repository.
 
-
-
 ---
 ## Best of Luck 
